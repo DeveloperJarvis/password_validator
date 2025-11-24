@@ -19,7 +19,8 @@
 //
 // SPDX-License-Identifier: GPL-3.0-or-later
 //
-// [Project Name] - [brief description of what it does]
+// password_validator - Check if a password contains: uppercase, lowercase, digits, special characters
+//						Concepts: string scanning, character classification
 //
 // Author: Developer Jarvis (Pen Name)
 // Contact: https://github.com/DeveloperJarvis
