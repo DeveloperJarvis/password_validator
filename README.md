@@ -1,5 +1,7 @@
 # Password Validator
 
+A simple command line password validator
+
 ### Install GCC
 
 For Ubuntu:
